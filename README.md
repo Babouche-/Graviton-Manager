@@ -2,6 +2,8 @@
 
 Graviton Manager is a simple application for manage Graviton Emulator -> https://github.com/Babouche-/Graviton
 
+Language : C#
+
 #Screens
 
 <p align="center"><IMG SRC="https://i.gyazo.com/d0fd9654b2c24593b040d1c24d7b9be2.png"></p>
