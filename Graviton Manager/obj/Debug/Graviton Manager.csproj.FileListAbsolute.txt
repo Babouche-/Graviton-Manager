@@ -1,0 +1,30 @@
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\bin\Debug\Graviton Manager.exe
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\bin\Debug\Graviton Manager.pdb
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton Manager.csprojResolveAssemblyReference.cache
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton_Manager.Properties.Resources.resources
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton Manager.csproj.GenerateResource.Cache
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton Manager.exe
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton Manager.pdb
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton_Manager.splashScreen.resources
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton_Manager.MainForm.resources
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton_Manager.Form1.resources
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\bin\Debug\Graviton Manager.exe.manifest
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\bin\Debug\Graviton Manager.application
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton Manager.TrustInfo.xml
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton Manager.exe.manifest
+C:\Users\Botan\Documents\Visual Studio 2015\Projects\DXApplication1\Graviton Manager\obj\Debug\Graviton Manager.application
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton Manager.exe
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton Manager.pdb
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton Manager.csprojResolveAssemblyReference.cache
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton_Manager.Form1.resources
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton_Manager.MainForm.resources
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton_Manager.Properties.Resources.resources
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton_Manager.splashScreen.resources
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton Manager.csproj.GenerateResource.Cache
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\bin\Debug\Graviton Manager.exe.manifest
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\bin\Debug\Graviton Manager.application
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\bin\Debug\Graviton Manager.exe
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\bin\Debug\Graviton Manager.pdb
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton Manager.TrustInfo.xml
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton Manager.exe.manifest
+C:\Users\Botan\Desktop\Botan Work\Graviton\Manager\Graviton Manager\obj\Debug\Graviton Manager.application
